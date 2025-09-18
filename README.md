@@ -89,7 +89,3 @@ Select an option:
 - Identify transactions that deviate significantly from user behavior.
 - Analyze transaction frequency at specific geographic coordinates.
 - Detect clusters of potentially fraudulent activities based on spatial distance.
-
-
-
-This project is licensed under the MIT License. See the LICENSE file for details.
