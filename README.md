@@ -55,9 +55,8 @@ fraud_detection_project/
 ## How to Run
 
 1. Clone the repository:
-```
-git clone https://github.com/yourusername/fraud-detection-system.git
-cd fraud-detection-system
+```https://github.com/Yed-hu/Fraudlent-Transaction-Data-Analysis
+cd Fraudlent-Transaction-Data-Analysis
 ```
 
 2. Ensure all required files are in the project directory:
