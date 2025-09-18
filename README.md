@@ -55,7 +55,8 @@ fraud_detection_project/
 ## How to Run
 
 1. Clone the repository:
-```https://github.com/Yed-hu/Fraudlent-Transaction-Data-Analysis
+```
+https://github.com/Yed-hu/Fraudlent-Transaction-Data-Analysis
 cd Fraudlent-Transaction-Data-Analysis
 ```
 
